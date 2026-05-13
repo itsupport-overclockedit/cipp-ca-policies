@@ -1,0 +1,27 @@
+{
+    "@odata.context":  "https://graph.microsoft.com/beta/$metadata#identity/conditionalAccess/namedLocations/$entity",
+    "@odata.type":  "#microsoft.graph.countryNamedLocation",
+    "@odata.id":  "identity/conditionalAccess/namedLocations(\u0027185c993e-10a9-44fa-98d1-230c8f72f497\u0027)",
+    "@odata.editLink":  "identity/conditionalAccess/namedLocations(\u0027185c993e-10a9-44fa-98d1-230c8f72f497\u0027)/microsoft.graph.countryNamedLocation",
+    "id":  "185c993e-10a9-44fa-98d1-230c8f72f497",
+    "displayName":  "ALLOWED COUNTRIES",
+    "modifiedDateTime@odata.type":  "#DateTimeOffset",
+    "modifiedDateTime":  "2024-05-24T09:26:17.2878988Z",
+    "createdDateTime@odata.type":  "#DateTimeOffset",
+    "createdDateTime":  "2024-05-24T09:26:17.2878988Z",
+    "deletedDateTime":  null,
+    "countriesAndRegions@odata.type":  "#Collection(String)",
+    "countriesAndRegions":  [
+                                "BE",
+                                "LU",
+                                "NL"
+                            ],
+    "includeUnknownCountriesAndRegions":  false,
+    "countryLookupMethod@odata.type":  "#microsoft.graph.countryLookupMethodType",
+    "countryLookupMethod":  "clientIpAddress",
+    "#microsoft.graph.restore":  {
+                                     "title":  "microsoft.graph.restore",
+                                     "target":  "https://graph.microsoft.com/beta/identity/conditionalAccess/namedLocations(\u0027185c993e-10a9-44fa-98d1-230c8f72f497\u0027)/microsoft.graph.namedLocation/microsoft.graph.restore"
+                                 }
+}
+Hudu floating action button
