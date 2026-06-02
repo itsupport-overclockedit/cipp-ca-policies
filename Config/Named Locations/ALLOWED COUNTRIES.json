@@ -12,9 +12,7 @@
     "deletedDateTime":  null,
     "countriesAndRegions@odata.type":  "#Collection(String)",
     "countriesAndRegions":  [
-                                "BE",
-                                "LU",
-                                "NL"
+                                "US"
                             ],
     "includeUnknownCountriesAndRegions":  false,
     "countryLookupMethod@odata.type":  "#microsoft.graph.countryLookupMethodType",
@@ -24,4 +22,3 @@
                                      "target":  "https://graph.microsoft.com/beta/identity/conditionalAccess/namedLocations(\u0027185c993e-10a9-44fa-98d1-230c8f72f497\u0027)/microsoft.graph.namedLocation/microsoft.graph.restore"
                                  }
 }
-Hudu floating action button
