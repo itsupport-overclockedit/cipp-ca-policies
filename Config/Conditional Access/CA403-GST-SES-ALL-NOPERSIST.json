@@ -1,20 +1,23 @@
 {
-  "id": "4dd5b3cb-93f4-47f2-ac0e-3e3c5cedeaca",
-  "displayName": "CA403-GST-SES-ALL-NOPERSIST",
-  "createdDateTime": "2026-06-02T18:45:17.1237957Z",
-  "modifiedDateTime": "2026-06-03T12:53:01.2657858Z",
+  "id": "1bae1815-25d9-4e7c-b234-b75a7ae70bf0",
+  "displayName": "CA404-GST-BLK-APP-NONAPPROVED",
+  "createdDateTime": "2026-06-02T16:58:33.3237317Z",
+  "modifiedDateTime": "2026-06-03T12:53:10.481416Z",
   "state": "disabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
     "clientAppTypes": [
-      "browser"
+      "all"
     ],
     "applications": {
       "includeApplications": [
         "All"
       ],
-      "excludeApplications": [],
+      "excludeApplications": [
+        "2793995e-0a7d-40d7-bd35-6968ba142197",
+        "Office365"
+      ],
       "includeUserActions": [],
       "includeAuthenticationContextClassReferences": []
     },
@@ -26,7 +29,7 @@
       "includeRoles": [],
       "excludeRoles": [],
       "includeGuestsOrExternalUsers": {
-        "guestOrExternalUserTypes": "internalGuest,b2bCollaborationGuest,b2bCollaborationMember,b2bDirectConnectUser,otherExternalUser,serviceProvider",
+        "guestOrExternalUserTypes": "internalGuest,b2bCollaborationGuest,b2bCollaborationMember,b2bDirectConnectUser,otherExternalUser",
         "externalTenants": {
           "@odata.type": "#microsoft.graph.conditionalAccessAllExternalTenants",
           "membershipKind": "all"
@@ -34,10 +37,13 @@
       }
     }
   },
-  "sessionControls": {
-    "persistentBrowser": {
-      "mode": "never",
-      "isEnabled": true
-    }
+  "grantControls": {
+    "operator": "OR",
+    "builtInControls": [
+      "block"
+    ],
+    "customAuthenticationFactors": [],
+    "termsOfUse": [],
+    "authenticationStrength@odata.context": "https://graph.microsoft.com/beta/$metadata#identity/conditionalAccess/policies('1bae1815-25d9-4e7c-b234-b75a7ae70bf0')/grantControls/authenticationStrength/$entity"
   }
 }
