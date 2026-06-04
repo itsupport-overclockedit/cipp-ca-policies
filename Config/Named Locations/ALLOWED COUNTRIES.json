@@ -3,7 +3,7 @@
     "@odata.type":  "#microsoft.graph.countryNamedLocation",
     "@odata.id":  "identity/conditionalAccess/namedLocations(\u0027185c993e-10a9-44fa-98d1-230c8f72f497\u0027)",
     "@odata.editLink":  "identity/conditionalAccess/namedLocations(\u0027185c993e-10a9-44fa-98d1-230c8f72f497\u0027)/microsoft.graph.countryNamedLocation",
-    "id":  "185c993e-10a9-44fa-98d1-230c8f72f497",
+    "id":  "1a752177-241e-45e8-a812-cc2aa55d1496",
     "displayName":  "ALLOWED COUNTRIES",
     "modifiedDateTime@odata.type":  "#DateTimeOffset",
     "modifiedDateTime":  "2024-05-24T09:26:17.2878988Z",
