@@ -3,7 +3,7 @@
   "displayName": "CA202-INT-SES-ALL-UNMGDEV-SIGNIN12H",
   "createdDateTime": "2026-06-02T16:10:53.053628Z",
   "modifiedDateTime": "2026-06-03T12:40:23.1239089Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
