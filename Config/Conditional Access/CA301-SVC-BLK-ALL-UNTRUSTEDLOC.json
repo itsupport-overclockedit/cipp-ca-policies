@@ -3,7 +3,7 @@
   "displayName": "CA301-SVC-BLK-ALL-UNTRUSTEDLOC",
   "createdDateTime": "2026-06-03T13:06:24.6860752Z",
   "modifiedDateTime": "2026-06-03T13:09:06.6403832Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
