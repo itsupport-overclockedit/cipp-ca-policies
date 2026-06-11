@@ -3,7 +3,7 @@
   "displayName": "CA101-ADM-MFA-ADMPRT",
   "createdDateTime": "2026-06-02T16:58:33.6728261Z",
   "modifiedDateTime": "2026-06-03T12:36:37.3492594Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
