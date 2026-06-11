@@ -3,7 +3,7 @@
   "displayName": "CA205-INT-MFA-ENR",
   "createdDateTime": "2026-06-02T19:16:41.8310213Z",
   "modifiedDateTime": "2026-06-03T12:41:15.6573115Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
