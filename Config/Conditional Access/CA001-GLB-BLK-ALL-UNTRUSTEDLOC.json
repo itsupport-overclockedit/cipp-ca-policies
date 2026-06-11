@@ -3,7 +3,7 @@
   "displayName": "CA001-GLB-BLK-ALL-UNTRUSTEDLOC",
   "createdDateTime": "2026-06-02T18:43:44.9816815Z",
   "modifiedDateTime": "2026-06-03T12:32:19.8178174Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
