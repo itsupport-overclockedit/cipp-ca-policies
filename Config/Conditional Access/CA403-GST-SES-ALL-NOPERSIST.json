@@ -3,7 +3,7 @@
   "displayName": "CA403-GST-SES-ALL-NOPERSIST",
   "createdDateTime": "2026-06-02T18:45:17.1237957Z",
   "modifiedDateTime": "2026-06-03T12:53:01.2657858Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
