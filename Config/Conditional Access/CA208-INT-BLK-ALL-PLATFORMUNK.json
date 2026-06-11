@@ -3,7 +3,7 @@
   "displayName": "CA208-INT-BLK-ALL-PLATFORMUNK",
   "createdDateTime": "2026-06-02T18:47:31.6921947Z",
   "modifiedDateTime": "2026-06-03T12:41:59.3853224Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
