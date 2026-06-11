@@ -3,7 +3,7 @@
   "displayName": "CA104-ADM-SES-ALL-CAE",
   "createdDateTime": "2026-06-02T16:10:53.4328369Z",
   "modifiedDateTime": "2026-06-03T12:37:24.9721713Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
