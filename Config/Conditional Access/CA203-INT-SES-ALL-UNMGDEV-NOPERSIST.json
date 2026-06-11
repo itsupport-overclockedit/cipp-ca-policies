@@ -3,7 +3,7 @@
   "displayName": "CA203-INT-SES-ALL-UNMGDEV-NOPERSIST",
   "createdDateTime": "2026-06-02T16:10:52.6998757Z",
   "modifiedDateTime": "2026-06-03T12:40:38.9160885Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
