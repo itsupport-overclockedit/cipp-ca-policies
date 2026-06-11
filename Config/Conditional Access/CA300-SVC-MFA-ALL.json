@@ -3,7 +3,7 @@
   "displayName": "CA300-SVC-MFA-ALL",
   "createdDateTime": "2026-06-03T13:01:06.3819311Z",
   "modifiedDateTime": "2026-06-03T13:08:40.2672382Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
