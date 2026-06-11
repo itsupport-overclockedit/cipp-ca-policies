@@ -3,7 +3,7 @@
   "displayName": "CA000-GLB-MFA-ALL",
   "createdDateTime": "2026-06-02T16:10:53.390992Z",
   "modifiedDateTime": "2026-06-03T12:31:48.3886093Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
