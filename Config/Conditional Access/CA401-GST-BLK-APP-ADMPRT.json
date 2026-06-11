@@ -3,7 +3,7 @@
   "displayName": "CA401-GST-BLK-APP-ADMPRT",
   "createdDateTime": "2026-06-02T18:45:33.4320476Z",
   "modifiedDateTime": "2026-06-03T12:52:42.2641391Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
