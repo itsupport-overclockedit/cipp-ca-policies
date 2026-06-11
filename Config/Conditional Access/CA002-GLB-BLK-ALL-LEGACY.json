@@ -3,7 +3,7 @@
   "displayName": "CA002-GLB-BLK-ALL-LEGACY",
   "createdDateTime": "2026-06-02T16:58:33.4574793Z",
   "modifiedDateTime": "2026-06-03T12:34:00.0047758Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
