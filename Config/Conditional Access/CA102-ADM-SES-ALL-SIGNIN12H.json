@@ -3,7 +3,7 @@
   "displayName": "CA102-ADM-SES-ALL-SIGNIN12H",
   "createdDateTime": "2026-06-02T18:44:53.5703484Z",
   "modifiedDateTime": "2026-06-03T12:36:55.4106305Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
