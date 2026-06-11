@@ -3,7 +3,7 @@
   "displayName": "CA204-INT-SES-ALL-CAE",
   "createdDateTime": "2026-06-02T18:47:11.6714418Z",
   "modifiedDateTime": "2026-06-03T12:40:56.5696381Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
