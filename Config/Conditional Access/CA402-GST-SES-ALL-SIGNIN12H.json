@@ -3,7 +3,7 @@
   "displayName": "CA402-GST-SES-ALL-SIGNIN12H",
   "createdDateTime": "2026-06-02T16:10:53.088631Z",
   "modifiedDateTime": "2026-06-03T12:52:51.7642802Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
