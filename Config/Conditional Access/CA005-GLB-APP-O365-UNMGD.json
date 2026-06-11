@@ -3,7 +3,7 @@
   "displayName": "CA100-ADM-MFA-ALL",
   "createdDateTime": "2026-06-02T18:46:44.529824Z",
   "modifiedDateTime": "2026-06-03T12:35:00.1352467Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
