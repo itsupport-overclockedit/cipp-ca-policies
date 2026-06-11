@@ -3,7 +3,7 @@
   "displayName": "CA400-GST-MFA-ALL",
   "createdDateTime": "2026-06-02T18:45:25.2898943Z",
   "modifiedDateTime": "2026-06-03T12:52:32.1100128Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
