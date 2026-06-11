@@ -3,7 +3,7 @@
   "displayName": "CA103-ADM-SES-ALL-NOPERSIST",
   "createdDateTime": "2026-06-02T16:58:32.6320687Z",
   "modifiedDateTime": "2026-06-03T12:37:08.7565885Z",
-  "state": "disabled",
+  "state": "enabled",
   "conditions": {
     "userRiskLevels": [],
     "signInRiskLevels": [],
